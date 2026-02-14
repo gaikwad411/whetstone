@@ -18,7 +18,7 @@ Document learnings clearly
 
 Like a whetstone sharpens a blade, this repository sharpens engineering judgment.
 
-**Structure***
+**Structure**
 
 Each folder focuses on a single concept or technology. Examples include:
 
