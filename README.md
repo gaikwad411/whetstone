@@ -35,3 +35,7 @@ Messaging (RabbitMQ, Pub/Sub)
 Containerization (Docker)
 
 Kubernetes manifests
+
+
+### References
+https://github.com/github/gitignore
