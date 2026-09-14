@@ -36,6 +36,8 @@ Containerization (Docker)
 
 Kubernetes manifests
 
+AI Agents
+
 
 ### References
 https://github.com/github/gitignore
